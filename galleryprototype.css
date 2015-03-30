@@ -1,0 +1,15 @@
+body {
+    background-color:#FFFFFF;
+}
+
+img {
+	width:100px;
+	height:100px;
+}
+
+table{
+	border: 20px lightgreen solid;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+    padding: 5px
+}
